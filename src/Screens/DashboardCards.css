@@ -1,0 +1,16 @@
+.dashboardCards {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0% 5% 2% 5%;
+}
+
+.dashboardCard {
+  width: 12vw;
+  height: 10vh;
+  background-color: white;
+  border-radius: 5px;
+  text-align: center;
+  padding-top: 1.5%;
+  cursor: pointer;
+}

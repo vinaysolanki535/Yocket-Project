@@ -1,0 +1,12 @@
+.task {
+  padding-bottom: 10px;
+}
+
+.taskLi {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgb(234, 230, 247);
+  border-radius: 20px;
+  padding: 0.5% 3% 0.5% 3%;
+}

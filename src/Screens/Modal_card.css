@@ -1,0 +1,36 @@
+.modal_card {
+  display: flex;
+  flex-direction: column;
+  width: 80vh;
+}
+
+.modal_card > label {
+  margin-bottom: 5px;
+}
+
+.modal_card > input {
+  height: 30px;
+  margin-bottom: 10px;
+}
+
+.modal_card > input::selection {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: none;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.modal_card > button {
+  background-color: rgb(139, 134, 232);
+  color: white;
+  text-transform: inherit;
+  margin-top: 20px;
+}
+
+.modal_card > button:hover {
+  background-color: white;
+  color: rgb(139, 134, 232);
+}

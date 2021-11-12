@@ -1,0 +1,11 @@
+.bucket {
+  display: flex;
+  flex-direction: column;
+  padding: 10% 10% 10% 10%;
+}
+
+.bucketHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

@@ -1,0 +1,23 @@
+.taskDetails {
+  display: flex;
+  flex-direction: column;
+  padding: 12% 3% 3% 3%;
+  align-items: center;
+  width: 30vw;
+}
+
+.taskDetailsHeader {
+  text-align: center;
+}
+
+.detailDescription {
+  margin-top: 30px;
+}
+
+.detailsStatus {
+  margin-top: 50px;
+}
+
+.detailsStatus > h3 {
+  text-align: center;
+}

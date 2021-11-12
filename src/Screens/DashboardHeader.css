@@ -1,0 +1,16 @@
+.dashboardHeader {
+  display: flex;
+  padding: 3% 5% 3% 5%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.headerLeft > h1 {
+  color: rgb(32, 33, 30);
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.headerLeft > h4 {
+  color: rgb(139, 134, 232);
+}
